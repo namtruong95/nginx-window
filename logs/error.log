@@ -1,0 +1,6 @@
+2018/07/27 07:50:18 [error] 7208#7280: *1 CreateFile() "C:\nginx-1.15.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/07/27 07:55:52 [error] 7208#7280: *9 CreateFile() "C:\nginx-1.15.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "mytel.test", referrer: "http://mytel.test/"
+2018/07/27 08:03:10 [warn] 8272#8268: "user" is not supported, ignored in C:\nginx-1.15.2/conf/nginx.conf:1
+2018/07/27 08:03:10 [emerg] 8272#8268: invalid event type "epoll" in C:\nginx-1.15.2/conf/nginx.conf:9
+2018/07/27 08:07:28 [warn] 7836#6588: "user" is not supported, ignored in C:\nginx-1.15.2/conf/nginx.conf:1
+2018/07/27 08:07:28 [emerg] 7836#6588: invalid event type "epoll" in C:\nginx-1.15.2/conf/nginx.conf:9
